@@ -1,0 +1,27 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+canvas {
+  background-color: #0d9cdd;
+}
+.customizationPanel {
+  margin-left: 100px;
+}
+.customizationPanelForm {
+  display: flex;
+  flex-direction: column;
+}
+.customizationPanelForm input {
+  height: 30px;
+}
+.customizationPanelForm button {
+  margin-top: 20px;
+  cursor: pointer;
+}
+.checkbox {
+  display: flex;
+  margin: 40px 0;
+}
