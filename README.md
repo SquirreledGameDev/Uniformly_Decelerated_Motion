@@ -1,4 +1,4 @@
-# Uniformly Decelerated Motion
+# Uniformly Decelerated Motion 
 
 <a href="https://www.youtube.com/watch?v=62yyhW0M4aE" target="_blank">How to make a squirrel JUMP? | Uniformly Decelerated Motion in Games</a>
 </br>
